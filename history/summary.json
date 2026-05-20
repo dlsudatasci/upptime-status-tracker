@@ -19,22 +19,22 @@
   },
   {
     "name": "Hosted map assets",
-    "url": "http://altdsi.com/workadventure-digital-office/",
+    "url": "http://altdsi.com/workadventure-digital-office/mini-mckinley.tmj",
     "icon": "https://icons.duckduckgo.com/ip3/altdsi.com.ico",
     "slug": "hosted-map-assets",
-    "status": "down",
-    "uptime": "7.96%",
-    "uptimeDay": "7.96%",
-    "uptimeWeek": "7.96%",
-    "uptimeMonth": "7.96%",
-    "uptimeYear": "7.96%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "status": "up",
+    "uptime": "4.63%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "4.63%",
+    "uptimeMonth": "4.63%",
+    "uptimeYear": "4.63%",
+    "time": 41,
+    "timeDay": 41,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-05-20": 2
+      "2026-05-20": 5
     }
   }
 ]
