@@ -5,36 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wa.altdsi.com.ico",
     "slug": "digital-office-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "17.88%",
+    "uptimeDay": "17.88%",
+    "uptimeWeek": "17.88%",
+    "uptimeMonth": "17.88%",
+    "uptimeYear": "17.88%",
     "time": 960,
     "timeDay": 960,
     "timeWeek": 960,
     "timeMonth": 960,
     "timeYear": 960,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hosted map assets",
-    "url": "http://altdsi.com/workadventure-digital-office/mini-mckinley.tmj",
-    "icon": "https://icons.duckduckgo.com/ip3/altdsi.com.ico",
-    "slug": "hosted-map-assets",
-    "status": "up",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 52,
-    "timeDay": 52,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
     "dailyMinutesDown": {
-      "2026-05-20": 5
+      "2026-05-21": 217,
+      "2026-05-20": 848
     }
   }
 ]
