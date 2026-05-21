@@ -4,8 +4,6 @@ repo: digital-office-status
 sites:
   - name: Digital office server
     url: https://wa.altdsi.com
-  - name: Hosted map assets
-    url: http://altdsi.com/workadventure-digital-office/mini-mckinley.tmj
 
 status-website:
   cname: "" # Leave this blank unless you want a custom domain for the status page
